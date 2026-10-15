@@ -1,0 +1,5 @@
+# pokefirered tree
+upstream/
+
+# python virtual env
+.venv/
